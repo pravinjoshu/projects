@@ -1,0 +1,9 @@
+
+body {
+  background-color: #f8f9fa;
+}
+
+.stat-box {
+  min-width: 150px;
+  text-align: center;
+}
